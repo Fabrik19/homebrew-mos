@@ -1,8 +1,8 @@
 cask "mos-launcher" do
-  version "2.1.1"
-  sha256 "b849a703e155fb40b4188bedbe688e3f3c73ad9f3e97160df6185c8ef809095f"
+  version "2.2.0"
+  sha256 "43a22485169acf23f189ef5d3a0b8983dbf64c622b245c1cc44b5ee7c7218971"
 
-  url "https://download.mobilitysuite.de/launcher/mac-2.1.1.zip"
+  url "https://download.mobilitysuite.de/launcher/mac-2.2.0.zip"
   name "mos. Launcher"
   desc "Used for developing with the Fabrik19 Mobilitysuite"
   homepage "https://fabrik19.de/technologie-produkte/"
