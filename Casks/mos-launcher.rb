@@ -4,7 +4,7 @@ cask "mos-launcher" do
 
   url "https://download.mobilitysuite.de/launcher/mac/2.4.0/mos-launcher.zip"
   name "mos. Launcher"
-  desc "Used for developing with the Fabrik19 Mobilitysuite"
+  desc "Used for mobile app development with Mobility Suite mos."
   homepage "https://mobilitysuite.de/"
 
   app "mos-launcher.app"
