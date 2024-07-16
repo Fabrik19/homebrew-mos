@@ -7,5 +7,5 @@ cask "mos-launcher" do
   desc "Used for mobile app development with Mobility Suite mos."
   homepage "https://mobilitysuite.de/"
 
-  app "mos-launcher.app"
+  app "mos.launcher.app"
 end
