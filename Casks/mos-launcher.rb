@@ -1,8 +1,8 @@
 cask "mos-launcher" do
-  version "2.6.0"
-  sha256 "725cd5c001ea88b51e207f0254a0984609187bfc30760642facd066d7df2d697"
+  version "2.7.0"
+  sha256 "3beca1b4d8b3d083837dd44aea1e9a601c96f14c345a10d05f967fd41ba987ea"
 
-  url "https://download.mobilitysuite.de/launcher/mac/2.6.0/mos-launcher.zip"
+  url "https://download.mobilitysuite.de/launcher/mac/2.7.0/mos-launcher.zip"
   name "mos. Launcher"
   desc "Used for mobile app development with Mobility Suite mos."
   homepage "https://mobilitysuite.de/"
